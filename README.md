@@ -7,7 +7,7 @@
 
 ## Tech Stack
 - Languages: Python, JavaScript, HTML, CSS, C, C++, Kotlin (basics)
-- Tools: Playwright, Selenium, Git, GitHub
+- Tools: Playwright, Selenium, Git, Github
 - Other: Web scraping, automation, data parsing
   
 ## Projects
@@ -17,7 +17,9 @@
 
 ## Connect with me
 - GitHub: github.com/Vick-Mutai
-- LinkedIn: Add your link here
+- LinkedIn: www.linkedin.com/in/
+victor-mutai-01020b32b
+e
 - Email: victormutai6255@gmail.com
 
 ## Hobbies
