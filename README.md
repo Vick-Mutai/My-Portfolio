@@ -1,16 +1,26 @@
-## Hi there 👋
+# About Me
+- 💻 Skilled in Python, JavaScript, HTML/CSS
+- 🕵️‍♂️ Scraped jobs from 60+ companies
+- 🌱 Currently learning React
+- 📂 Building my portfolio website
+- Creator of $FATE ERC-20 token on Polygon
 
-<!--
-**Vick-Mutai/Vick-Mutai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+- Languages: Python, JavaScript, HTML, CSS, C, C++, Kotlin (basics)
+- Tools: Playwright, Selenium, Git, GitHub
+- Other: Web scraping, automation, data parsing
+  
+## Projects
+- Job Scraper: Automated scripts to gather job listings from 60+ company websites.
+- $FATE Token: ERC-20 cryptocurrency built on Polygon blockchain.
+- Portfolio Website: In progress — will showcase projects and GitHub work.
 
-Here are some ideas to get you started:
+## Connect with me
+- GitHub: github.com/Vick-Mutai
+- LinkedIn: Add your link here
+- Email: victormutai6255@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies
+- 🎮 Gamer 
+- 🏀 Basketball player 
+- 🎱 Pool enthusiast
