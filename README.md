@@ -21,7 +21,8 @@
 - Portfolio Website: In progress — will showcase projects and GitHub work.
 
 ## Connect with me
-- GitHub: github.com/Victor kiprotich
+- GitHub: https://github.com/victor-kiprotich
+- Portfolio: https://victor-kiprotich.github.io/
 - LinkedIn: www.linkedin.com/in/
 victor-mutai-01020b32b
 e
