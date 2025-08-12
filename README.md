@@ -1,5 +1,4 @@
-# Hi, I'm Victor Mutai 👋
-- I’m Victor Mutai, a self-taught developer who is passionate in coding things that make life easier.
+-Hi👋, I’m Victor Mutai, a self-taught developer who is passionate in coding things that make life easier.
   I’ve worked on automating data scraping from 60+ company websites, turning hours of work into minutes.
   Python is my main tool, but I also tinker with HTML, CSS, and JavaScript to bring ideas to life. Using website I create with react framework.
   I enjoy solving tricky problems and making messy data look clean and useful.
